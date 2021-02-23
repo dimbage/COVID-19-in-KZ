@@ -1,6 +1,3 @@
-options(warn=-1)
-suppressMessages()
-
 library(ggplot2)
 library(tidyverse)
 library(magrittr)

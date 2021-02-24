@@ -19,28 +19,8 @@ NCT04627194
 Clinical Protocols
 https://clinicaltrials.gov/ct2/show/NCT04627194
 
+
 Funding Statement
 Genomic studies were funded by the Ministry of Education and Science of the Republic of Kazakhstan (Grant# AP08052352).
 
-Author Declarations
-I confirm all relevant ethical guidelines have been followed, and any necessary IRB and/or ethics committee approvals have been obtained.
-
-Yes
-
-The details of the IRB/oversight body that provided approval or exemption for the research described are given below:
-
-The retrospective registered (https://clinicaltrials.gov/ct2/show/NCT04627194) cohort study was approved by the Research Ethics Board of Semey Medical University as an anonymized epidemiological study, for which the requirement for informed consent was waived due to the pandemic state and urgent need to collect and analyze data. Virological samples used in genomic studies were anonymized and all genomic study procedures were approved by the Ethics Committee of the National Centre for Biotechnology (Nur-Sultan, Kazakhstan).
-
-All necessary patient/participant consent has been obtained and the appropriate institutional forms have been archived.
-
-Yes
-
-I understand that all clinical trials and any other prospective interventional studies must be registered with an ICMJE-approved registry, such as ClinicalTrials.gov. I confirm that any such study reported in the manuscript has been registered and the trial registration ID is provided (note: if posting a prospective study registered retrospectively, please provide a statement in the trial ID field explaining why the study was not registered in advance).
-
-Yes
-
-I have followed all appropriate research reporting guidelines and uploaded the relevant EQUATOR Network research reporting checklist(s) and other pertinent material as supplementary files, if applicable.
-
-Yes
-
-Paper in collection COVID-19 SARS-CoV-2 preprints from medRxiv and bioRxiv
+https://www.medrxiv.org/content/10.1101/2021.01.06.20249091v1

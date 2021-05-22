@@ -16,6 +16,8 @@ NCT04627194
 Clinical Protocols
 https://clinicaltrials.gov/ct2/show/NCT04627194
 
+Publications:
+https://www.thelancet.com/journals/lanepe/article/PIIS2666-7762(21)00073-9/fulltext
 https://www.medrxiv.org/content/10.1101/2021.01.06.20249091v1
 
 Funding Statement
